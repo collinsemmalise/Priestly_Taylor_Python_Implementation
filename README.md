@@ -3,8 +3,8 @@
 ## A python implementation of the Priestly-Taylor equations (Priestly and Taylor, 1972) in modeling PET for Congaree National Park
 
 ### Collaborators:
-[Emma Collins](collinsel2@g.cofc.edu)
-[Dr. Timothy Callahan](callahant@cofc.edu)
+ - [Emma Collins](collinsel2@g.cofc.edu)
+ -  [Dr. Timothy Callahan](callahant@cofc.edu)
 
 ### Project Goal:  
  - We aim to model the potential evapotranspiration in Congaree National Park for use in a groundwater modeling study. 
