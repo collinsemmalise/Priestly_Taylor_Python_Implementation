@@ -1,0 +1,4 @@
+#ignore all .ipynb checkpoints
+*/.ipynb_checkpoints/*
+MesoWestAPI.py
+NSRDB.py
